@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Lab2_2\Lab2_2\bin\Debug\Lab2_2.exe.config
+C:\Users\User\Desktop\Lab2_2\Lab2_2\bin\Debug\Lab2_2.exe
+C:\Users\User\Desktop\Lab2_2\Lab2_2\bin\Debug\Lab2_2.pdb
+C:\Users\User\Desktop\Lab2_2\Lab2_2\obj\Debug\Lab2_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab2_2\Lab2_2\obj\Debug\Lab2_2.exe
+C:\Users\User\Desktop\Lab2_2\Lab2_2\obj\Debug\Lab2_2.pdb
